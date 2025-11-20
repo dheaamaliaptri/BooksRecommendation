@@ -57,3 +57,16 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+# Artful Books - Web Books Recommendation
+
+Artful Books adalah web sederhana untuk merekomendasikan buku.  
+Pengguna bisa melihat daftar buku, detail buku, membaca dan menambahkan review, serta mencari buku berdasarkan judul atau nama penulis.
+
+## Fitur
+- Landing page dengan penjelasan dan beberapa buku unggulan
+- Daftar buku lengkap di halaman Books
+- Detail buku + ulasan pembaca
+- Tambah review dan rating
+- Pencarian buku (judul & nama penulis)
